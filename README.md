@@ -1,1 +1,1 @@
-# sprint-allinone
+# spring-allinone
